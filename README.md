@@ -1,4 +1,4 @@
-# VIP Registration Desk
+# VIP Registration Desk | [![wakatime](https://wakatime.com/badge/user/55f2e7d8-e681-415e-ba87-93dc727f5023/project/f4a75a1e-8794-41f4-bcb1-bb10e9d0ec42.svg)](https://wakatime.com/badge/user/55f2e7d8-e681-415e-ba87-93dc727f5023/project/f4a75a1e-8794-41f4-bcb1-bb10e9d0ec42)
 
 A FastAPI code quiz solution: two endpoints demonstrating header/cookie
 parameter models, response model filtering, and status codes.
